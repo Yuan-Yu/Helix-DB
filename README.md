@@ -11,7 +11,8 @@ Then,put the PDB files in **example_input** folder.
   
 1. For extracting the sequence of helixes from PDB files.  
 ```bash
-python get_helix_seqs.py # The output file that contains the sequences of the helixes is "sequences_all.fasta"
+python get_helix_seqs.py 
+# The output file that contains the sequences of the helixes is "sequences_all.fasta"
 ```
 2. For calculation of the contact information of helix from each PDB file.  
 ```bash
