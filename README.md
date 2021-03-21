@@ -15,6 +15,8 @@ python get_helix_seqs.py # The output file that contains the sequences of the he
 ```
 2. For calculation of the contact information of helix from each PDB file.  
 ```bash
-python hh_contacts.py # The output files are in the "dictionaries" folder
+python hh_contacts.py 
+# The output files are in the "dictionaries" folder.
+# The log file is "hh_dictionary_all.txt"
 ```
 
